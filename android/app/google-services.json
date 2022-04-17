@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842491625272",
+    "project_id": "soc-management",
+    "storage_bucket": "soc-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842491625272:android:efbab5af6cf931426ecbcd",
+        "android_client_info": {
+          "package_name": "com.example.metaville2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842491625272-0vd2ig5acq4ap6iv047lmehpq767dbsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxO6v2umgXJ40UKrPutICy2ptV8J0Ew-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842491625272-0vd2ig5acq4ap6iv047lmehpq767dbsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
